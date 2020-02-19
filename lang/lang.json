@@ -1,0 +1,14 @@
+{
+  "EN_us": {
+    "id": "EN_us",
+    "Index": {
+      "MainText": "I'm a text who can translate by the json file 'lang/lang.json'"
+    }
+  },
+  "FR_fr": {
+    "id": "FR_fr",
+    "Index": {
+      "MainText": "Je suis un texte qui à la possibilité d'être traduit grâce au fichier json suivant : 'lang/lang.json'"
+    }
+  }
+}
